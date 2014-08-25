@@ -12,6 +12,10 @@ Tags: wepesi
 	font-family: 'Dosis', 'Verdana', sans-serif;
 }
 
+html {
+	background:#f26822;
+}
+
 .color-one,
 .color-one a {
 	color:#f26822;
