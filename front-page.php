@@ -33,7 +33,7 @@
                 </div>
             </header>
 <main class="main">
-	<h1>Your great website starts now.</h1>
+	<h1>Your great website starts today.</h1>
 	<p>Wepesi lets you build websites that are;</p>
 	<ul>
 		<li class="space-top"><h2>easy to create <i class="fa fa-check"></i></h2></li>
