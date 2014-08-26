@@ -52,10 +52,6 @@ html {
 	display:block;
 }
 
-.logo a:after {
-	content:' ';
-}
-
 .header .color-one,
 .header .color-one a {
 	background:transparent;

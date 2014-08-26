@@ -17,7 +17,7 @@
                 <div class="pull-left">
                     <h1 class="logo">
                         <a>
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/wepesi.png" width="189" height="40" alt="Wepesi"/>
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/wepesi.png" width="189" height="40" alt="Wepesi"/>&#160;
                         </a>
                     </h1>
                 </div>
