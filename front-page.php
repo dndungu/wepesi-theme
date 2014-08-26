@@ -44,7 +44,7 @@
 					<li class="color-three">
 						<a href="/activate">
 							<i class="fa fa-email"></i>
-							<span>Get started</span>
+							<span>Get started now</span>
 						</a>
 					</li>
 				  </ul>
