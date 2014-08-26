@@ -44,25 +44,25 @@
 		<li class="color-three">
 		  <a href="/oauth/connect/facebook-signup/dashboard">
 			<i class="fa fa-facebook"></i>
-			<span>Create with facebook</span>
+			<span>Create with Facebook</span>
 		  </a>
 		</li>
 		<li class="color-three">
 		  <a href="/oauth/connect-twitter/dashboard">
 			<i class="fa fa-twitter"></i>
-			<span>Create with twitter</span>
+			<span>Create with Twitter</span>
 		  </a>
 		</li>
 		<li class="color-three">
 		  <a href="/oauth/connect/linkedin-profile/dashboard">
 			<i class="fa fa-linkedin"></i>
-			<span>Create with linkedin</span>
+			<span>Create with Linkedin</span>
 		  </a>
 		</li>
 		<li class="color-three">
 			<a href="/activate">
 				<i class="fa fa-email"></i>
-				<span>Create with email</span>
+				<span>Create with Email</span>
 			</a>
 		</li>
 	  </ul>
