@@ -60,9 +60,10 @@
 		  </a>
 		</li>
 		<li class="color-three">
-			<form method="get" action="/">
-				<input type="text" name="address" value="Create with your email" class="placeholder"/>&#160;
-			</form>
+			<a href="/activate">
+				<i class="fa fa-email"></i>
+				<span>Create with email</span>
+			</a>
 		</li>
 	  </ul>
 </main>
