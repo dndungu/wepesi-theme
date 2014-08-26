@@ -42,7 +42,7 @@
 				</ul>
 				<ul class="activate-links space-top row">
 					<li class="color-three">
-						<a href="/activate">
+						<a href="/wp-signup.php">
 							<i class="fa fa-email"></i>
 							<span>Get started now</span>
 						</a>
