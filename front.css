@@ -1,0 +1,94 @@
+/*
+Theme Name: Wepesi
+Theme URI: http://wepesi.com
+Description: Created for wepesi.com
+Version: 0.0.1
+Author: David Njuguna
+Author URI: http://www.davidnjuguna.com
+Tags: wepesi
+*/
+
+* {
+	font-family: 'Dosis', 'Verdana', sans-serif;
+}
+
+html {
+	background:#fff;
+}
+
+.color-one,
+.color-one a {
+	color:#f26822;
+	background-color:#fff;
+}
+
+.background-one {
+}
+
+.color-two,
+.color-two a {
+	color:#231f20;
+	background-color:#fff;
+}
+
+.color-three,
+.color-three a {
+	color:#fff;
+	background-color:#f26822;
+}
+
+.main,
+.header,
+.header {
+	text-align:center;
+	display:block;
+	width:100%;
+}
+.header {
+	line-height:6em;
+}
+
+.logo a {
+	display:block;
+}
+
+.header .color-one,
+.header .color-one a {
+	background:transparent;
+}
+
+.header .nav a {
+	padding:0 0 0 2em;
+}
+
+.home {
+	color:#fff;
+	background-size:cover;
+	background:url('images/home-02.jpg') center top scroll no-repeat transparent;
+}
+
+@media screen and (min-height:32em) {
+	.home main,
+	.home .main {
+		padding-top:4em;
+		font-size:1.25em;
+	}
+}
+
+.activate-email,
+.activate-links li {
+	display:inline-block;
+	padding: 0 1em;
+	line-height:3em;
+	max-width: 90%;
+	margin: .5em .5em;
+	border-radius: .25em;
+}
+
+.home input {
+	width:90%;
+}
+
+.footer {
+	height:3.125em;
+}
