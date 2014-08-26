@@ -32,40 +32,44 @@
                     </nav>
                 </div>
             </header>
-<main class="main">
-	<h1>Your great website starts today.</h1>
-	<p>Wepesi lets you build websites that are;</p>
-	<ul>
-		<li class="space-top"><h2>easy to create <i class="fa fa-check"></i></h2></li>
-		<li class="space-top"><h2>easy to update <i class="fa fa-check"></i></h2></li>
-		<li class="space-top"><h2>easy on your budget <i class="fa fa-check"></i></h2></li>
-	</ul>
-	<ul class="activate-links space-top row">
-		<li class="color-three">
-		  <a href="/oauth/connect/facebook-signup/dashboard">
-			<i class="fa fa-facebook"></i>
-			<span>Create with Facebook</span>
-		  </a>
-		</li>
-		<li class="color-three">
-		  <a href="/oauth/connect-twitter/dashboard">
-			<i class="fa fa-twitter"></i>
-			<span>Create with Twitter</span>
-		  </a>
-		</li>
-		<li class="color-three">
-		  <a href="/oauth/connect/linkedin-profile/dashboard">
-			<i class="fa fa-linkedin"></i>
-			<span>Create with Linkedin</span>
-		  </a>
-		</li>
-		<li class="color-three">
-			<a href="/activate">
-				<i class="fa fa-email"></i>
-				<span>Create with Email</span>
-			</a>
-		</li>
-	  </ul>
-</main>
-<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/home.js"/>
-<?php get_footer(); ?>
+			<main class="main">
+				<h1>Your great website starts today.</h1>
+				<p>Wepesi lets you build websites that are;</p>
+				<ul>
+					<li class="space-top"><h2>easy to create <i class="fa fa-check"></i></h2></li>
+					<li class="space-top"><h2>easy to update <i class="fa fa-check"></i></h2></li>
+					<li class="space-top"><h2>easy on your budget <i class="fa fa-check"></i></h2></li>
+				</ul>
+				<ul class="activate-links space-top row">
+					<li class="color-three">
+					  <a href="/oauth/connect/facebook-signup/dashboard">
+						<i class="fa fa-facebook"></i>
+						<span>Create with Facebook</span>
+					  </a>
+					</li>
+					<li class="color-three">
+					  <a href="/oauth/connect-twitter/dashboard">
+						<i class="fa fa-twitter"></i>
+						<span>Create with Twitter</span>
+					  </a>
+					</li>
+					<li class="color-three">
+					  <a href="/oauth/connect/linkedin-profile/dashboard">
+						<i class="fa fa-linkedin"></i>
+						<span>Create with Linkedin</span>
+					  </a>
+					</li>
+					<li class="color-three">
+						<a href="/activate">
+							<i class="fa fa-email"></i>
+							<span>Create with Email</span>
+						</a>
+					</li>
+				  </ul>
+			</main>
+            <footer class="text-center double-space-top">
+                <p>&#169; Copyright 2014 Gereji Limited. All rights reserved.</p>
+            </footer>
+        </div>
+    </body>
+</html>
