@@ -600,7 +600,7 @@ float:right;
 display:inline-block;
 width:10px;
 height:10px;
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/drop-nav-arrow.png);
+background-image:url(images/drop-nav-arrow.png);
 background-size:5px;
 background-repeat:no-repeat;
 }
@@ -1147,12 +1147,12 @@ transition:background-color .5s ease;
 
 #content-container .nivoSlider {
 height:auto!important;
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/cs-loader.gif);
+background-image:url(images/cs-loader.gif);
 }
 
 #slider-container .nivo-wrapper {
 min-height:400px;
-background:url(http://aksent.co.ke/wp-content/themes/thestory/images/cs-loader-w.gif) 50% 50% / 15px 15px no-repeat;
+background:url(images/cs-loader-w.gif) 50% 50% / 15px 15px no-repeat;
 }
 
 #content-container .wp-pagenavi a,#content-container .wp-pagenavi span {
@@ -1818,7 +1818,7 @@ padding-right:1px;
 }
 
 .icons-style-dark .mob-nav-btn {
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/mob-nav-icon.png);
+background-image:url(images/mob-nav-icon.png);
 }
 
 .boxed-layout #header {
@@ -2008,7 +2008,7 @@ border-bottom-style:solid;
 }
 
 .img-loading {
-background:url(http://aksent.co.ke/wp-content/themes/thestory/images/cs-loader.gif) 50% 50% / 20px 20px no-repeat;
+background:url(images/cs-loader.gif) 50% 50% / 20px 20px no-repeat;
 padding:0;
 }
 
@@ -2222,7 +2222,7 @@ height:20px;
 border:0;
 box-shadow:none;
 text-indent:-1000000000px;
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/search_icon-b.png);
+background-image:url(images/search_icon-b.png);
 background-color:transparent;
 background-size:12px 12px;
 background-position:50% 50%;
@@ -2304,7 +2304,7 @@ position:absolute;
 }
 
 .loading .fullpage-nav li.current {
-background:url(http://aksent.co.ke/wp-content/themes/thestory/images/cs-loader-w.gif) 50% 50% / 10px 10px no-repeat rgba(0,0,0,0.498039);
+background:url(images/cs-loader-w.gif) 50% 50% / 10px 10px no-repeat rgba(0,0,0,0.498039);
 }
 
 .fullpage-nav li.current {
@@ -2327,7 +2327,7 @@ content:'';
 }
 
 .light-icons .info-box .box-icon,.light-icons .note-box .box-icon,.light-icons .tip-box .box-icon,.light-icons .error-box .box-icon,.light-icons .share-item,.light-icons .post-type-icon {
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/px_sprites_w.png);
+background-image:url(images/px_sprites_w.png);
 }
 
 .accordion-title.current,.read-more,.bypostauthor,.sticky,.pg-cat-filter a.current {
@@ -2348,12 +2348,12 @@ margin-right:5px;
 text-align:center;
 padding-top:6px;
 width:26px;
-background:url(http://aksent.co.ke/wp-content/plugins/wp-pagenavi-lightword/images/pageno.gif) 0 0 no-repeat scroll #FFF;
+background:url(/wp-content/plugins/wp-pagenavi-lightword/images/pageno.gif) 0 0 no-repeat scroll #FFF;
 }
 
 .wp-pagenavi div.first,.wp-pagenavi div.last {
 width:57px;
-background:url(http://aksent.co.ke/wp-content/plugins/wp-pagenavi-lightword/images/pagelast.gif) 0 0 no-repeat scroll #FFF;
+background:url(/wp-content/plugins/wp-pagenavi-lightword/images/pagelast.gif) 0 0 no-repeat scroll #FFF;
 }
 
 .wp-pagenavi a:hover,.wp-pagenavi span.current {
@@ -2435,7 +2435,7 @@ text-align:left;
 }
 
 .single #portfolio-slider {
-background:url(http://aksent.co.ke/wp-content/themes/thestory/images/ajax-loader-small2.gif) 50% 150px no-repeat;
+background:url(images/ajax-loader-small2.gif) 50% 150px no-repeat;
 }
 
 .share-fb {
@@ -2490,7 +2490,7 @@ margin-right:7px;
 width:16px;
 height:16px;
 cursor:pointer;
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/px_sprites_w.png);
+background-image:url(images/px_sprites_w.png);
 background-size:528px 16px;
 background-repeat:no-repeat;
 transition:all .15s ease;
@@ -2558,7 +2558,7 @@ height:16px;
 border-right-width:1px;
 border-right-style:solid;
 border-right-color:rgba(0,0,0,0.298039);
-background-image:url(http://aksent.co.ke/wp-content/themes/thestory/images/px_sprites.png);
+background-image:url(images/px_sprites.png);
 background-size:528px 16px;
 background-repeat:no-repeat;
 }
@@ -2600,7 +2600,7 @@ display:inline-block;
 visibility:hidden;
 width:16px;
 height:16px;
-background:url(http://aksent.co.ke/wp-content/themes/thestory/images/ajax-loader-small2.gif) no-repeat;
+background:url(images/ajax-loader-small2.gif) no-repeat;
 }
 
 #SGM {
