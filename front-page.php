@@ -23,12 +23,17 @@
                 </div>
                 <div class="pull-right">
                     <nav class="nav color-one">
-                        <ul>
-                            <li><a href="/">HOME</a></li>
-                            <li><a href="/portfolio">PORTFOLIO</a></li>
-                            <li><a href="/pricing">PRICING</a></li>
-                            <li><a href="/blog">BLOG</a></li>
-                        </ul>
+	                <?php
+		                $menu_args = array(
+        	                'theme_location' => 'pexeto_main_menu',
+            	            'container' => false,
+                	        'menu_class' => 'menu-ul');
+
+    	            	if(has_nav_menu( 'pexeto_main_menu' )){
+        	            	$menu_args['walker'] = new PexetoMenuWalker();
+	            	    }
+	
+    	            	wp_nav_menu($menu_args); ?>
                     </nav>
                 </div>
             </header>
