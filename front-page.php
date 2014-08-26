@@ -42,27 +42,9 @@
 				</ul>
 				<ul class="activate-links space-top row">
 					<li class="color-three">
-					  <a href="/oauth/connect/facebook-signup/dashboard">
-						<i class="fa fa-facebook"></i>
-						<span>Create with Facebook</span>
-					  </a>
-					</li>
-					<li class="color-three">
-					  <a href="/oauth/connect-twitter/dashboard">
-						<i class="fa fa-twitter"></i>
-						<span>Create with Twitter</span>
-					  </a>
-					</li>
-					<li class="color-three">
-					  <a href="/oauth/connect/linkedin-profile/dashboard">
-						<i class="fa fa-linkedin"></i>
-						<span>Create with Linkedin</span>
-					  </a>
-					</li>
-					<li class="color-three">
 						<a href="/activate">
 							<i class="fa fa-email"></i>
-							<span>Create with Email</span>
+							<span>Get started</span>
 						</a>
 					</li>
 				  </ul>
