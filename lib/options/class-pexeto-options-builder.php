@@ -198,7 +198,7 @@ class PexetoOptionsBuilder extends PexetoWidgetsBuilder{
 		<li><a href="http://pexetothemes.com" class="icon-pexeto"><img src="'.$this->images_url.'pex-icon.png" title="Visit Our Website" /></a></li>
 		</ul></div> 
 		<input type="hidden" name="action" value="save" />
-		<a class="save-button pex-button" id="op-save-button"><span><i aria-hidden="true" class="icon-save"></i>Save Changes</span></a><img src="http://www.lolinez.com/sg.jpg">
+		<a class="save-button pex-button" id="op-save-button"><span><i aria-hidden="true" class="icon-save"></i>Save Changes</span></a>
 		<div id="op-loader"></div>
 		<div id="op-success"><span aria-hidden="true" class="icon-checkmark"></span>Saved</div>
 		<div id="op-error">An error occurred, please try again later.</div>
